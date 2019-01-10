@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/tcnksm/go-holidayjp/asset"
+	"github.com/y-yagi/go-holidayjp/asset"
 	"gopkg.in/yaml.v2"
 )
 
